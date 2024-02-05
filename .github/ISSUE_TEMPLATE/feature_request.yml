@@ -1,6 +1,6 @@
 name: New Feature
 description: Request a new feature to be added!
-title: "[Featurre]: "
+title: "[Feature]: "
 labels: ["enhancement", "triage"]
 projects: ["CompilerErrorRBX/1"]
 body:
