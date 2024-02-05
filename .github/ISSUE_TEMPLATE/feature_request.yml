@@ -12,6 +12,6 @@ body:
     id: what-would-you-like
     attributes:
       label: What would you like to see us add to Quarantine: Aftermath?
-      placeholder: Please provide a detailed explanation of the feature you're interested in seeing. Pictures are much appreciated!
+      placeholder: Please provide a detailed explanation of the feature you are interested in seeing. Pictures are much appreciated!
     validations:
       required: true
